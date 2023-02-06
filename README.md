@@ -22,3 +22,6 @@ you can
 but new license will be soon!
 hope your doing well
 or godo luck!
+UPDATE:
+it was from COPYING.html
+so it is gnu gpl
