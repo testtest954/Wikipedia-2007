@@ -25,3 +25,4 @@ or godo luck!
 UPDATE:
 it was from COPYING.html
 so it is gnu gpl
+yes it its
