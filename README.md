@@ -15,6 +15,8 @@ Php -S localhost:8080
 ## python
 Python 2 — python -m SimpleHTTPServer 8000.
 Python 3 — python -m http. server 8000.
+## html
+open the index html or any html
 # Can i modify or copy this?
 of course you can
 even if its unlicensed
